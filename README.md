@@ -1,6 +1,6 @@
 # No Gaps Zen Mod
 
-#### Removes empty space around the tab view.
+**Removes the empty space around the tab view.**
 
 ## Options
 
